@@ -1,0 +1,32 @@
+body {
+color: black;
+background-color: white;
+font-size: 30px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+p {
+  border-top-style: solid;
+  border-top-width: thick;
+  border-top-color: black;
+  border-bottom-style: solid;
+  border-bottom-width: thick;
+  border-bottom-color: black;
+  border-left-style: solid;
+  border-left-width: thick;
+  border-left-color: black;
+  border-right-style: solid;
+  border-right-width: thick;
+  border-right-color: black;
+}
